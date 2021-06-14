@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<TextView android:id="@+id/search_Btn"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Search Here"
+    android:textColor="@color/purple_200"
+    android:textSize="18sp"
+    android:gravity="center"
+    android:drawableStart="@drawable/search_icon"
+   android:layout_margin="20dp"
+    android:padding="12dp"
+    android:background="@color/teal_200"/>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/titleName"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:text="shyam"
+    android:gravity="center"/>
+    <include layout="@layout/collection_layout" />
+
+</LinearLayout>

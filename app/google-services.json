@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743485337084",
+    "project_id": "searchfirebase-642cd",
+    "storage_bucket": "searchfirebase-642cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743485337084:android:f725a6251ab43b844ad679",
+        "android_client_info": {
+          "package_name": "com.aarambha.searchfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743485337084-ukqpo9cjj3qeqse5a4e84qq9mtuhnk00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFLnCvoWqJHv4YQMcrmdZJ6xTeO2nADdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743485337084-ukqpo9cjj3qeqse5a4e84qq9mtuhnk00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
